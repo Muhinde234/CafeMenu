@@ -6,6 +6,8 @@ body {
   
   h1 {
     font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
   }
   
   h2 {
@@ -40,6 +42,9 @@ body {
   
   .item p {
     display: inline-block;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-size: 18px;
   }
   
   .flavor, .dessert {
@@ -51,3 +56,7 @@ body {
     text-align: right;
     width: 25%
   }
+  .bottom-line
+{
+  margin-top:25px;
+}
