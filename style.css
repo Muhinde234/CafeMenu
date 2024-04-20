@@ -35,6 +35,11 @@ body {
     background-color: brown;
     border-color: brown;
   }
+  img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
   
   h1, h2 {
     font-family: Impact, serif;
